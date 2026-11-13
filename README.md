@@ -45,4 +45,4 @@ Retrieved 2026-10-16.
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
